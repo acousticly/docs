@@ -1,0 +1,38 @@
+:root {
+  --primary: #7289DA;
+  --white: #ffffff;
+  --r1: #fb0f32;
+  --r2: #0070ff;
+  --r3: #db00ff;
+  --r4: #46af2c;
+  --r5: #33bed1;
+  --rchan: #fe7f9d;
+}
+
+.btn {
+  font-family: "Calibri", sans-serif;
+  font-weight: 400;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.btn:hover {
+  transform: translateY(-3px);
+  opacity: 0.8;
+}
+
+.btn--primary--solid {
+  background-color: var(--primary);
+  color: var(--white);
+  border: none;
+}
+.btn--acoustic {
+  background-color: var(--r1);
+  color: var(--white);
+  border: none;
+}
+.btn--large {
+  padding: 20px 40px;
+  font-size: 35px;
+}

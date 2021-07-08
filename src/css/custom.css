@@ -1,0 +1,49 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+ html[data-theme=dark] {
+    --ifm-color-emphasis-0: var(--ifm-color-gray-1000);
+    --ifm-color-emphasis-100: var(--ifm-color-gray-900);
+    --ifm-color-emphasis-200: var(--ifm-color-gray-800);
+    --ifm-color-emphasis-300: var(--ifm-color-gray-700);
+    --ifm-color-emphasis-400: var(--ifm-color-gray-600);
+    --ifm-color-emphasis-500: var(--ifm-color-gray-500);
+    --ifm-color-emphasis-600: var(--ifm-color-gray-400);
+    --ifm-color-emphasis-700: var(--ifm-color-gray-300);
+    --ifm-color-emphasis-800: var(--ifm-color-gray-200);
+    --ifm-color-emphasis-900: var(--ifm-color-gray-100);
+    --ifm-color-emphasis-1000: var(--ifm-color-gray-0);
+    --ifm-blockquote-color: rgba(85, 89, 105, 0.7);
+    --ifm-background-color: #1D1E22;
+    --ifm-background-surface-color: #222329;
+    --ifm-hover-overlay: hsla(0, 0%, 100%, 0.05);
+    --ifm-color-content-secondary: #ffffff;
+ }
+
+/* Make details' summary blocks non-selectable */
+details > summary {
+    user-select: none;
+    cursor: pointer;
+}
+
+/* You can override the default Infima variables here. */
+:root {
+    --ifm-color-primary: #7289DA;
+    --ifm-color-primary-dark: #6175bd;
+    --ifm-color-primary-darker: #4a588d;
+    --ifm-color-primary-darkest: #45548a;
+    --ifm-color-primary-light: #7e95e7;
+    --ifm-color-primary-lighter: #8da1e9;
+    --ifm-color-primary-lightest: #a7b9f8;
+    --ifm-code-font-size: 95%;
+}
+
+.docusaurus-highlight-code-line {
+    background-color: rgba(52, 55, 66, 0.7);
+    display: block;
+    margin: 0 calc(-1 * var(--ifm-pre-padding));
+    padding: 0 var(--ifm-pre-padding);
+}
