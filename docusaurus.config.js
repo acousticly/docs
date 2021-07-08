@@ -2,7 +2,7 @@ module.exports = {
   plugins: [require.resolve('docusaurus-lunr-search')],
   title: 'Acoustic',
   tagline: 'Docs',
-  url: 'https://awesome-jennings-f56fed.netlify.app',
+  url: 'docs-but3vrcu8-acousticly.vercel.app',
   baseUrl: '/docs/',
   favicon: 'img/Acousticlight.png',
   organizationName: 'Acoustic',
