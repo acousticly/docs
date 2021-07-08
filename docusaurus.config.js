@@ -3,7 +3,7 @@ module.exports = {
   title: 'Acoustic',
   tagline: 'Docs',
   url: 'docs-but3vrcu8-acousticly.vercel.app',
-  baseUrl: '/docs/',
+  baseUrl: '/',
   favicon: 'img/Acousticlight.png',
   organizationName: 'Acoustic',
   projectName: 'Acoustic-documentation',
