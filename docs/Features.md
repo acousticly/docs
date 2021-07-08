@@ -30,7 +30,7 @@ Unlike other music bots, Acoustic grants you special perks including sound effec
 ![Effects](/img/docs/features/filters.png)
 
 ### Queue
-The built-in queue feature allows you to add songs to the queue and manage it. Now go build a music queue and enjoy the tunes! [**Learn More**](/queue)
+The built-in queue feature allows you to add songs to the queue and manage it. Now go build a music queue and enjoy the tunes! 
 
 ![Queue](/img/docs/features/queue.png)
 

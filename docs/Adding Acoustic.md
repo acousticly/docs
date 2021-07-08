@@ -49,7 +49,7 @@ Once you've decided to use the best **companion** on Discord, then you can conti
 
 Tap or click the `Select a server` button. A pop-up should appear that will let you select where you'd like to add Acoustic.
 :::note Note
-If you don't see your server in this drop-down, [click here!](/invite_troubleshooting#when-adding-acoustic-i-cant-see-my-server-in-the-list)
+
 :::
 
 ### Step two
@@ -69,7 +69,3 @@ If you want to disable `Administrator` permission from Acoustic, it will not wor
 Once you press the `Authorize` button and complete the Captcha, you should be redirected to our thank-you page. In addition, you'll also see a message like the one below in your Discord server. **Spectacular!**
 
 Now let's get the party started by [playing some songs](/play_song)!
-
-## I have problems with inviting Acoustic!
----
-For any issues with inviting Acoustic, check out the [Invite Troubleshooting](/invite_troubleshooting) section.
