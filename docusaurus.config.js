@@ -29,7 +29,7 @@ module.exports = {
           items: [
             {
               label: "Discord",
-              to: "https://acoustic/support",
+              to: "https://acoustic.to/support",
             },
             {
               label: "Patreon",
