@@ -66,6 +66,7 @@ module.exports = {
       trackingID: 'G-C078WP7TYT',
     },
   },
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -75,7 +76,9 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css')
+          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/normalize.min.css')
+
         },
         sitemap: {
           changefreq: 'monthly',
