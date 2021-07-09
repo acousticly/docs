@@ -14,5 +14,8 @@ module.exports = {
       `playlists`
 
     ],
+    'Legal Junk': [
+      'privacy'
+    ]
   },
 };
