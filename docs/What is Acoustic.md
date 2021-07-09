@@ -15,4 +15,4 @@ Acoustic is a Discord bot for your community. We try to bridge the gap between m
      We are a relatively new bot to Discord so we wanted to make a big splash! Ensuring that the community has everything that it needs is of paramount importance to us. If you **ever** have any questions, drop us a line in our [Discord server](https://acoustic.to/support).
 
 # What are you waiting for?
-## [Just invite it, what have you got to lose 😉](https://acoustic.to/invite)
+## [Just invite it, what have you got to lose? 😉](https://acoustic.to/invite)
