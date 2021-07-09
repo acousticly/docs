@@ -11,7 +11,7 @@ If you have additional questions or require more information about our Privacy P
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Acoustic. This policy is not applicable to any information collected offline or via channels other than this website.
 
 ## Consent
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+By using our website & any of our products, you hereby consent to our Privacy Policy and agree to its terms.
 
 ## Information we collect
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.

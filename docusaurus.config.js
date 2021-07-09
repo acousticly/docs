@@ -55,7 +55,7 @@ module.exports = {
           items: [
             {
               label: "Privacy Policy",
-              to: "https://acoustic.to/privacy",
+              to: "/privacy",
             },
           ],
         },
