@@ -2,9 +2,9 @@ module.exports = {
   plugins: [require.resolve('docusaurus-lunr-search')],
   title: 'Acoustic',
   tagline: 'Docs',
-  url: 'https://docs-six-theta.vercel.app',
+  url: 'https://docs.acoustic.to',
   baseUrl: '/',
-  favicon: 'img/Acousticlight.png',
+  favicon: 'img/favicon.webp',
   organizationName: 'Acoustic',
   projectName: 'Acoustic-documentation',
   themeConfig: {
