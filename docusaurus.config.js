@@ -17,7 +17,7 @@ module.exports = {
       title: 'Docs',
       logo: {
         alt: 'acoustic-logo',
-        src: 'img/Acousticlight.png',
+        src: 'img/Acousticlight.webp',
       },
       items: [],
     },

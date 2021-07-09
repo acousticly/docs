@@ -8,7 +8,7 @@ module.exports = {
       'adding_acoustic',
       'play_song',
     ],
-    'Basics of Stuff': [
+    'Basic Stuff': [
       'faq',
       'commands',
       `playlists`

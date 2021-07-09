@@ -13,11 +13,11 @@ After [inviting Acoustic into your server](/adding_acoustic), you can get the pa
 ## 1. Join a Voice Channel.
   - You can do that by clicking on the channel with a speaker icon.
 
-  ![Voice Channel image](/img/docs/playing-a-song/joinVC.gif)
+  ![Voice Channel image](/img/docs/playing-a-song/joinVC.webp)
 
 ## 2. Summon Acoustic into the Voice Channel
   - You can make Acoustic join the Voice Channel by typing `~join`.
-  ![Joining a Voice Channel](/img/docs/playing-a-song/acousticjoin.gif)
+  ![Joining a Voice Channel](/img/docs/playing-a-song/acousticjoin.webp)
 
 ## 3. Start your music.
 
@@ -29,11 +29,11 @@ After [inviting Acoustic into your server](/adding_acoustic), you can get the pa
       {label: 'Play a Playlist', value: 'pp'},
     ]}>
     <TabItem value="ps"> To play a song, type <code>~play &lt;Song Name/Song URL&gt;</code><br/><br/>
-      <img src="/docs/img/docs/playing-a-song/playsongname.png" alt="example-1"/>
-      <img src="/docs/img/docs/playing-a-song/playsonglink.png" alt="example-2"/>
+      <img src="/img/docs/playing-a-song/playsongname.webp" alt="example-1"/>
+      <img src="/img/docs/playing-a-song/playsonglink.webp" alt="example-2"/>
     </TabItem>
     <TabItem value="pp"> To play a playlist, type <code>~play &lt;PlaylistURL&gt;</code><br/><br/>
-      <img src="/docs/img/docs/playing-a-song/playplaylist.png" alt="example-pl"/>
+      <img src="/img/docs/playing-a-song/playplaylist.webp" alt="example-pl"/>
     </TabItem>
   </Tabs>
 
@@ -44,5 +44,5 @@ After [inviting Acoustic into your server](/adding_acoustic), you can get the pa
 ## 4. Search for more results
   - If you need more search results, you can use `!searchsong <song name>` and choose the option you want.
 
-  ![Searching a song](/img/docs/playing-a-song/searchsong.png)
+  ![Searching a song](/img/docs/playing-a-song/searchsong.webp)
 
