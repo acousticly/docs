@@ -1,6 +1,6 @@
 ---
 id: playlists
-description: We know you want to try out those custom playlists.
+description: We know you want to try out our custom playlists. Well here's how!
 title: Custom Playlists
 ---
 

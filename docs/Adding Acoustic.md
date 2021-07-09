@@ -1,5 +1,6 @@
 ---
 id: adding_acoustic
+description: How to add the most amazing Discord bot in history!
 title: Adding Acoustic
 ---
 

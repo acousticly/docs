@@ -1,5 +1,6 @@
 ---
 id: features
+description: A quick article about some of Acoustic's most popular features!
 title: Features
 ---
 
