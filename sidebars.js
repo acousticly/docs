@@ -1,5 +1,5 @@
 module.exports = {
-  someSidebar: {
+  Sidebar: {
     'Introduction': [
       'start',
       'features'

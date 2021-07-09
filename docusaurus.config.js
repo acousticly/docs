@@ -51,7 +51,7 @@ module.exports = {
           ],
         },
         {
-          title: "More",
+          title: "Legal",
           items: [
             {
               label: "Privacy Policy",
