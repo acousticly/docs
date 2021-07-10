@@ -1,5 +1,5 @@
 module.exports = {
-  Sidebar: {
+  someSidebar: {
     'Introduction': [
       'start',
       'features'
@@ -13,6 +13,12 @@ module.exports = {
       'commands',
       `playlists`
 
+    ],
+    'Economy': [
+      'starting_economy',
+      'getting_money',
+      'profile_info',
+      'bases'
     ],
     'Legal Junk': [
       'privacy'
