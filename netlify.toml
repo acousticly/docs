@@ -1,4 +1,0 @@
-[build.environment]
-  YARN_VERSION = "1.22.5"
-  YARN_FLAGS = "--production=false"
-  NODE_ENV = "production"
