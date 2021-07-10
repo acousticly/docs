@@ -3,10 +3,12 @@
   "version": "0.0.5",
   "scripts": {
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "npm run prettier-docs && npm run prettier && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "serve": "docusaurus serve",
-	  "clear": "docusaurus clear"
+    "clear": "docusaurus clear",
+    "prettier-docs": "prettier --config .prettierrc --write \"**/*.{md,mdx}\"",
+    "prettier": "prettier --config .prettierrc --write \"**/*.{js,jsx,ts,tsx,json}\""
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-beta.3",
@@ -28,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
   }
 }

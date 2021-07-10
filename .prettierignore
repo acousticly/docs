@@ -1,0 +1,10 @@
+dist
+node_modules
+.yarn
+build
+coverage
+.docusaurus
+__fixtures__
+.history
+website/i18n
+website/versions.json
