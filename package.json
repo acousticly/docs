@@ -4,6 +4,7 @@
   "scripts": {
     "start": "docusaurus start",
     "build": "npm run prettier-docs && npm run prettier && docusaurus build",
+    "dev": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
