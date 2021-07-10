@@ -1,7 +1,6 @@
 {
   "name": "acoustic-docs",
-  "version": "0.0.3",
-  "private": true,
+  "version": "0.0.5",
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
