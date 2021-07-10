@@ -85,6 +85,17 @@ title: Commands
 | uptime  | Gets the uptime of the bot.                               | `uptime`         |
 | ping    | Displays the latency of Acoustc at the current time.      | `ping`
 
+## Fun
+
+| Command | description                               | Usage              |
+| ------- | ----------------------------------------- | ------------------ |
+| youtube    | Watch YouTube with your friends in a voice channel.        | `~youtube` |
+| poker  | Play poker with your friends in a voice channel. | `~poker`  |
+| chess  | Play chess with your friends in a voice channel. | `~chess`  |
+| betrayal  | Play betrayal with your friends in a voice channel. | `~betrayal`  |
+| fishing  | Play fishing by yourself or with your friends in a voice channel. | `~fishing`  |
+
+
 ## Misc
 
 | Command | description                               | Usage              |
