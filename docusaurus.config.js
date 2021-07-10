@@ -57,6 +57,10 @@ module.exports = {
               label: "Privacy Policy",
               to: "/privacy",
             },
+            {
+              label: 'Status 🔴',
+              to: "https://stats.uptimerobot.com/ZXE1WIMp92"
+            }
           ],
         },
       ],
