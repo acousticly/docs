@@ -21,7 +21,8 @@ module.exports = {
       'bases'
     ],
     'Legal Junk': [
-      'privacy'
+      'privacy',
+      'terms'
     ]
   },
 };

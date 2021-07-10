@@ -53,13 +53,17 @@ module.exports = {
         {
           title: "More",
           items: [
+             {
+              label: 'Status 🔴',
+              to: "https://stats.uptimerobot.com/ZXE1WIMp92"
+            },
             {
               label: "Privacy Policy",
               to: "/privacy",
             },
-            {
-              label: 'Status 🔴',
-              to: "https://stats.uptimerobot.com/ZXE1WIMp92"
+             {
+              label: "Terms Of Service",
+              to: "/terms",
             }
           ],
         },
