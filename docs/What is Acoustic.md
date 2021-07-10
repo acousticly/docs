@@ -1,5 +1,5 @@
 ---
-id: 'start'
+id: landing
 title: What is Acoustic?
 sidebar_label: What is Acoustic?
 ---

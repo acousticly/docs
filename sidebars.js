@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
     'Introduction': [
-      'start',
+      'landing',
       'features'
     ],
     'Getting Started': [

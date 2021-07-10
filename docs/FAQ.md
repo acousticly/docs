@@ -8,7 +8,7 @@ title: Frequently Asked Questions
 ## Introduction
 -----
 ### What is Acoustic?
-[Acoustic](/start) is a feature-rich, high-performance Discord bot. It is designed to eliminate any need for multiple bots and to provide the best companion experience in your server.
+[Acoustic](/landing) is a feature-rich, high-performance Discord bot. It is designed to eliminate any need for multiple bots and to provide the best companion experience in your server.
 ### How can I add Acoustic to my Discord Server?
 Please [click here](/adding_acoustic) to check out our guide on adding Acoustic.
 ## Basic Information
