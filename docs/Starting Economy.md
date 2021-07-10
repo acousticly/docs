@@ -36,8 +36,10 @@ If you want to see the amount of money you have, run the balance command and you
 
 ## Shop
 
-Running the ***shop*** command will give you an interface that shows a list of items you want to buy. The number followed by a ")" is the item's ID. This ID is what you use to specify what you want to buy from the shop. The price is the amount per item you want to buy. To buy an item, run the command below and you will get what you desire, as long as you can pay for it, of course!
+Running the ***shop*** command will give you an interface that shows a list of items you want to buy. The number followed by a `)` is the item's ID. This ID is what you use to specify what you want to buy from the shop. The price is the amount per item you want to buy. To buy an item, run the command below and you will get what you desire, as long as you can pay for it, of course!
 
 > ~shop buy **ID** **Amount**
 
-### There we go! We've covered all you need to know about starting economy. Make sure you follow the next tutorials, they are important!
+### You're finished 🥳
+
+There we go! We've covered all you need to know about starting economy. If feel like you've got the gist of it, feel free to go ahead and dive in. Otherwise, we've got some more material for you to look through.
