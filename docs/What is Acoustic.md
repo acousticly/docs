@@ -9,7 +9,7 @@ Acoustic is a Discord bot for your community. We try to bridge the gap between m
 
 # But Why Acoustic?
    - ### ✨ **Acoustic is constantly being updated**
-     [Acoustic](https://acoustic.to/) offers so many [features](/commands) that we had to make another website just to show you them all! All of which improve your server and make a more engaging and immersive community.
+     [Acoustic](https://acoustic.to/) offers so many [features](/features) that we had to make another website just to show you them all! All of which improve your server and make a more engaging and immersive community.
 
    - ### 👋 **Dedicated support community**
      We are a relatively new bot to Discord so we wanted to make a big splash! Ensuring that the community has everything that it needs is of paramount importance to us. If you **ever** have any questions, drop us a line in our [Discord server](https://acoustic.to/support).
