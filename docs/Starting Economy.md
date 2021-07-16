@@ -42,4 +42,4 @@ Running the ***shop*** command will give you an interface that shows a list of i
 
 ### You're finished 🥳
 
-There we go! We've covered all you need to know about starting economy. If feel like you've got the gist of it, feel free to go ahead and dive in. Otherwise, we've got some more material for you to look through.
+There we go! We've covered all you need to know about starting economy. If you feel like you've got the gist of it, feel free to go ahead and dive in. Otherwise, we've got some more material for you to look through.
