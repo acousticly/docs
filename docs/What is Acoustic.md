@@ -3,7 +3,7 @@ id: landing
 title: What is Acoustic?
 sidebar_label: What is Acoustic?
 ---
-### If you have no idea what you're doing here, then this short blurb is just for you!
+### If you have no idea what you're doing here, then this article may be albe to help you!
 ---
 Acoustic is a Discord bot for your community. We try to bridge the gap between multiple categories to bring you the best experience in music, economy and more.
 
