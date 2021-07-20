@@ -25,46 +25,46 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: "Stay In The Loop ",
+          title: 'Stay In The Loop ',
           items: [
             {
-              label: "Discord",
-              to: "https://acoustic.to/support",
+              label: 'Discord',
+              to: 'https://acoustic.to/support',
             },
             {
-              label: "Patreon",
-              to: "https://acoustic.to/patreon",
+              label: 'Patreon',
+              to: 'https://acoustic.to/patreon',
             },
           ],
         },
         {
-          title: "Find us online",
+          title: 'Find us online',
           items: [
             {
-              label: "Top.gg",
-              to: "https://acoustic.to/vote",
+              label: 'Top.gg',
+              to: 'https://acoustic.to/vote',
             },
             {
-              label: "YouTube",
-              to: "https://acoustic.to/youtube",
+              label: 'YouTube',
+              to: 'https://acoustic.to/youtube',
             },
           ],
         },
         {
-          title: "More",
+          title: 'More',
           items: [
-             {
+            {
               label: 'Status 🔴',
-              to: "https://stats.uptimerobot.com/ZXE1WIMp92"
+              to: 'https://stats.uptimerobot.com/ZXE1WIMp92',
             },
             {
-              label: "Privacy Policy",
-              to: "/privacy",
+              label: 'Privacy Policy',
+              to: '/privacy',
             },
-             {
-              label: "Terms Of Service",
-              to: "/terms",
-            }
+            {
+              label: 'Terms Of Service',
+              to: '/terms',
+            },
           ],
         },
       ],
@@ -85,8 +85,7 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-          customCss: require.resolve('./src/css/normalize.min.css')
-
+          customCss: require.resolve('./src/css/normalize.min.css'),
         },
         sitemap: {
           changefreq: 'monthly',

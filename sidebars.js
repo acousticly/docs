@@ -16,13 +16,18 @@ module.exports = {
     ],
     'Economy': [
       'starting_economy',
-      'getting_money',
       'profile_info',
+      'getting_money',
       'bases'
     ],
+    'Creating a Server': [
+      'overview',
+      'we_can_help',
+      'roles',
+      'channels_categories'
+    ],
     'Legal Junk': [
-      'privacy',
-      'terms'
+      'privacy'
     ]
   },
 };

@@ -3,6 +3,7 @@ id: terms
 description: Read about Acoustic&#x27;s Terms of Service.
 title: Terms Of Service
 ---
+
 # **Acoustic** TERMS OF SERVICE
 
 Last Updated: **7/10/21**
@@ -37,20 +38,20 @@ If you discover or suspect any Service security breaches, please let us know as 
 
 **Content Restrictions**
 
-* Content that is libelous, defamatory, bigoted, fraudulent or deceptive;
-* Content that is illegal or unlawful, that would otherwise create liability;
-* Content that may infringe or violate any patent, trademark, trade secret, copyright, right of privacy, right of publicity or other intellectual or other right of any party;
-* Mass or repeated promotions, political campaigning or commercial messages directed at users who do not follow you (SPAM);
-* Private information of any third party (e.g., addresses, phone numbers, email addresses, Social Security numbers and credit card numbers); and
-* Viruses, corrupted data or other harmful, disruptive or destructive files or code.
+- Content that is libelous, defamatory, bigoted, fraudulent or deceptive;
+- Content that is illegal or unlawful, that would otherwise create liability;
+- Content that may infringe or violate any patent, trademark, trade secret, copyright, right of privacy, right of publicity or other intellectual or other right of any party;
+- Mass or repeated promotions, political campaigning or commercial messages directed at users who do not follow you (SPAM);
+- Private information of any third party (e.g., addresses, phone numbers, email addresses, Social Security numbers and credit card numbers); and
+- Viruses, corrupted data or other harmful, disruptive or destructive files or code.
 
 Also, you agree that you will not do any of the following in connection with the Service or other users:
 
-* Use the Service in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Service or that could damage, disable, overburden or impair the functioning of the Service;
-* Impersonate or post on behalf of any person or entity or otherwise misrepresent your affiliation with a person or entity;
-* Collect any personal information about other users, or intimidate, threaten, stalk or otherwise harass other users of the Service;
-* Create an account or post any content if you are not over 13 years of age years of age; and
-* Circumvent or attempt to circumvent any filtering, security measures, rate limits or other features designed to protect the Service, users of the Service, or third parties.
+- Use the Service in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Service or that could damage, disable, overburden or impair the functioning of the Service;
+- Impersonate or post on behalf of any person or entity or otherwise misrepresent your affiliation with a person or entity;
+- Collect any personal information about other users, or intimidate, threaten, stalk or otherwise harass other users of the Service;
+- Create an account or post any content if you are not over 13 years of age years of age; and
+- Circumvent or attempt to circumvent any filtering, security measures, rate limits or other features designed to protect the Service, users of the Service, or third parties.
 
 ## **Acoustic** Materials
 

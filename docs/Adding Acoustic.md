@@ -11,16 +11,18 @@ import { Button } from '../Buttons/button';
 Ready to start listening with Acoustic? Well it's super easy so let's get into it!
 
 ## Invite me!
+
 ---
+
 export const Highlight = ({children, color}) => (
-  <span
-    style={{
+<span
+style={{
       borderRadius: '2px',
       color: color,
       padding: '0.2rem',
     }}>
-    {children}
-  </span>
+{children}
+</span>
 );
 
 <table>
@@ -38,10 +40,10 @@ export const Highlight = ({children, color}) => (
   </tr>
 </table>
 
-
-
 ## Authorization
+
 ---
+
 ### Step 1
 
 Once you've decided to use the best **companion** on Discord, then you can continue to invite it to your fav server!
@@ -49,7 +51,6 @@ Once you've decided to use the best **companion** on Discord, then you can conti
 ![Discord Authorization Screen](/img/docs/adding/discord-oauth.webp)
 
 Tap or click the `Select a server` button. A pop-up should appear that will let you select where you'd like to add Acoustic.
-
 
 ### Step two
 

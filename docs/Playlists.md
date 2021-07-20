@@ -5,13 +5,17 @@ title: Custom Playlists
 ---
 
 ## It's not difficult to create custom playlists!
+
 ---
+
 ### Step 1: Making your playlist
+
 - Run the `~create` command plus the name of the playlist you want to create along with the first song/playlist you want to add.
 
 ![createCommand](/img/docs/playlists/create-playlist.webp)
 
 ### Step 2: Playing your custom playlist
+
 - Run the `~load` command followed by the playlist you wish to load.
 
 ![loadCommand](/img/docs/playlists/load-playlist.webp)
