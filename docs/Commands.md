@@ -2,6 +2,8 @@
 id: commands
 description: You can find a list of Acoustic's commands here.
 title: Commands
+custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Commands.md
+
 ---
 
 :::info Note

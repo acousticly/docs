@@ -2,6 +2,7 @@
 id: starting_economy
 description: Getting started with Acoustic's superior economy!
 title: Starting Economy
+custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Starting%20Economy.md
 ---
 
 # Starting Economy

@@ -2,6 +2,8 @@
 id: adding_acoustic
 description: How to add the most amazing Discord bot in history!
 title: Adding Acoustic
+custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Adding%20Acoustic.md
+author: Joel Marcey
 ---
 
 import Tabs from '@theme/Tabs';
