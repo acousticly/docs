@@ -2,6 +2,8 @@
 id: play_song
 description: Learn how to play songs with Acoustic!
 title: Playing a Song
+custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Playing%20a%20song.md
+
 ---
 
 import Tabs from '@theme/Tabs';

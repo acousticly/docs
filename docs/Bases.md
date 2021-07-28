@@ -2,6 +2,8 @@
 id: bases
 description: A deep dive to an essential game-mechanic.
 title: Bases
+custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Bases.md
+
 ---
 
 # Bases

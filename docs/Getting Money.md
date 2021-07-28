@@ -2,6 +2,8 @@
 id: getting_money
 description: Got to figure out getting money somehow, right?
 title: Getting Money
+custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Getting%20Money.md
+
 ---
 
 # Getting Money

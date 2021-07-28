@@ -2,6 +2,7 @@
 id: privacy
 description: Just a short privacy policy 📝 so you know we aren't up to anything.
 title: Privacy Policy
+custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Privacy.md
 ---
 # Privacy Policy for Acoustic
 At Acoustic, accessible from https://acoustic.to/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Acoustic and how we use it.

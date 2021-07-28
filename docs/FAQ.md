@@ -2,6 +2,7 @@
 id: faq
 description: Self-serve yourself with the most common questions with Acoustic!
 title: Frequently Asked Questions
+custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/FAQ.md
 ---
 
 <!-- The start of the Introduction Section -->
