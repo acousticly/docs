@@ -12,8 +12,8 @@
     "prettier": "prettier --config .prettierrc --write \"**/*.{js,jsx,ts,tsx,json}\""
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.3",
-    "@docusaurus/preset-classic": "^2.0.0-beta.3",
+    "@docusaurus/core": "^2.0.0-beta.4",
+    "@docusaurus/preset-classic": "^2.0.0-beta.4",
     "classnames": "^2.3.1",
     "docusaurus": "^2.0.0-alpha.378053ac5",
     "docusaurus-lunr-search": "^2.1.14",
