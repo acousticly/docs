@@ -13,7 +13,7 @@ custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Commands.md
 - **Never include `<>` in your messages when using a command!**
 - Time can be in different formats
   - Example: `100`, `2m30s`
-    :::
+:::
 
 ## Music
 
