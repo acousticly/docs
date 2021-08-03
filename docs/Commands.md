@@ -21,27 +21,27 @@ custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Commands.md
 | ------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | 247          | Stays in the voice channel even if no one is in it.                                   | `~24/7`                                            |
 | add          | Add a song to the playlist                                                            | `~add <playlist name> <song>`                      |
-| back         | Plays the previous song in the queue.                                                 | `back`                                             |
+| back         | Plays the previous song in the queue.                                                 | `~back`                                             |
 | bassboost    | Bassboost the song                                                                    | `~bassboost [value]`                               |
 | create       | Create a playlist                                                                     | `~create <playlist name> <search query/link>`      |
-| dc           | Disconnects the bot from the voice channel.                                           | `dc`                                               |
+| dc           | Disconnects the bot from the voice channel.                                           | `~dc`                                               |
 | delete       | Delete a playlist                                                                     | `~delete <playlist name>`                          |
 | eliminate    | remove a song from the playlist                                                       | `~eliminate <playlist name> <position> [position]` |
 | fast-forward | Fast forwards the player by your specified amount.                                    | `~fast-forward <time>`                             |
-| join         | Makes the bot join your voice channel.                                                | `join`                                             |
+| join         | Makes the bot join your voice channel.                                                | `~join`                                             |
 | load         | Load a playlist                                                                       | `~load <playlist name>`                            |
 | loop         | Loops the song or queue.                                                              | `~loop [queue / song]`                             |
 | lyrics       | Get lyrics on a song.                                                                 | `~lyrics <song>`                                   |
 | move         | Moves the specified song to the specified position.                                   | `~move <position> <new position>`                  |
-| nightcore    | Toggles nightcore mode.                                                               | `nightcore`                                        |
-| np           | Shows the current song playing.                                                       | `np`                                               |
-| pause        | Pauses the music.                                                                     | `pause`                                            |
-| pitch        | Sets the player's pitch. If you input "reset", it will set the pitch back to default. | `pitch`                                            |
+| nightcore    | Toggles nightcore mode.                                                               | `~nightcore`                                        |
+| np           | Shows the current song playing.                                                       | `~np`                                               |
+| pause        | Pauses the music.                                                                     | `~pause`                                            |
+| pitch        | Sets the player's pitch. If you input "reset", it will set the pitch back to default. | `~pitch <0-9 / reset>`                                            |
 | play         | Play a song.                                                                          | `~play <link / song name>`                         |
 | previous     | Displays the previous tracks that have been played.                                   | `~previous [pageNumber]`                           |
 | queue        | Displays the queue.                                                                   | `~queue [pageNumber]`                              |
 | remove       | Removes a song from the queue                                                         | `~remove <position> [position]`                    |
-| resume       | Resumes the music.                                                                    | `resume`                                           |
+| resume       | Resumes the music.                                                                    | `~resume`                                           |
 | rewind       | Rewinds the player by your specified amount.                                          | `~rewind <time>`                                   |
 | search       | Searches for a song.                                                                  | `~search <link / song name>`                       |
 | seek         | Sets the playing track's position to the specified position.                          | `~seek <time>`                                     |
