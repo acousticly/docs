@@ -1,6 +1,9 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/).
+<a href="https://acoustic.freshstatus.io" id="freshstatus-badge-root"
+  data-banner-style="highlighted">
+<img src="https://public-api.freshstatus.io/v1/public/badge.svg/?badge=f805f135-03fd-439e-83ab-a29a66a07ac9" />
+</a>
 
 ### Installation
 
