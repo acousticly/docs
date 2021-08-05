@@ -30,8 +30,8 @@ module.exports = {
               to: 'https://acoustic.to/support',
             },
             {
-              label: 'Patreon',
-              to: 'https://acoustic.to/patreon',
+              label: 'Twitter',
+              to: 'https://twitter.com/acousticlybot',
             },
           ],
         },
