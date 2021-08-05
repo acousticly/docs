@@ -66,7 +66,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Acoustic.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Acoustic`,
     },
     gtag: {
       trackingID: 'G-C078WP7TYT',
