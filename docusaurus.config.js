@@ -17,7 +17,7 @@ module.exports = {
         alt: 'acoustic-logo',
         src: 'img/Acousticlight.webp',
       },
-      items: [],
+      items: [{to: 'blog', label: 'Blog', position: 'left'}],
     },
     footer: {
       style: 'dark',
@@ -177,6 +177,14 @@ module.exports = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
+        },
+        blog: {
+          blogTitle: 'Acoustic&#39;s blog!',
+          blogDescription: 'The ramblings of the Developers @ Acoustic',
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Acoustic, Inc`,
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

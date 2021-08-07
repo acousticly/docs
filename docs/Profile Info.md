@@ -11,21 +11,21 @@ Do you want to know more about your(and others) profile? This tutorial is for yo
 
 ## All Profile Info
 
-Run the ***profile*** command to figure out all you need to know about your profile. If you wish to view another person's profile, run ***profile***, and ping the user you wish to view info about.
+Run the **_profile_** command to figure out all you need to know about your profile. If you wish to view another person's profile, run **_profile_**, and ping the user you wish to view info about.
 
 > ~profile **@User**
 
 ## Balance
 
-Run the ***balance*** command to check your balance. You can also view another user's wallet, by pinging the user in the ***balance*** command.
+Run the **_balance_** command to check your balance. You can also view another user's wallet, by pinging the user in the **_balance_** command.
 
 > ~balance **@User**
 
 ## Bio
 
-The Bio is a sort of description of yourself on your profile (it can really be anything you want). You can set your bio using ***SetBio.*** When people view your profile, they will see the bio you set up!
+The Bio is a sort of description of yourself on your profile (it can really be anything you want). You can set your bio using **_SetBio._** When people view your profile, they will see the bio you set up!
 
-> ~setbio ***Bio***
+> ~setbio **_Bio_**
 
 ## Secret Balance
 
