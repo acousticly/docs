@@ -3,7 +3,6 @@ id: bases
 description: A deep dive to an essential game-mechanic.
 title: Bases
 custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Bases.md
-
 ---
 
 # Bases
@@ -12,7 +11,7 @@ Bases are essential to Acoustic's Economy. It is best you get to know about them
 
 ## Buying a Base
 
-Run the ***base buy*** command, and you will get a list of the bases.
+Run the **_base buy_** command, and you will get a list of the bases.
 
 > View: ~base buy
 
