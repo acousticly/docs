@@ -179,7 +179,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
-          blogTitle: 'Acoustic&#39;s blog!',
+          blogTitle: 'Acoustic&#39;s blog',
           blogDescription: 'The ramblings of the Developers @ Acoustic',
           feedOptions: {
             type: 'all',
