@@ -1,6 +1,7 @@
 {
   "name": "acoustic-docs",
   "version": "0.0.7",
+  "LICENSE:": "MIT",
   "scripts": {
     "start": "docusaurus start",
     "build": "npm run prettier-docs && npm run prettier && docusaurus build",
