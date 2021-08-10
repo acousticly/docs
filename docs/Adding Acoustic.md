@@ -48,9 +48,9 @@ style={{
 
 ### Step 1
 
-Once you've decided to use the best **companion** on Discord, then you can continue to invite it to your fav server!
+Once you've decided to use the best **companion** on Discord, then you can continue to invite it to your favorite server!
 
-![Discord Authorization Screen](/img/docs/adding/discord-oauth.webp)
+![Discord Authorization Screen](/img/docs/adding/oauth.webp)
 
 Tap or click the `Select a server` button. A pop-up should appear that will let you select where you'd like to add Acoustic.
 
@@ -60,7 +60,7 @@ Once you've selected the server that you'd like to add Acoustic to, you can pres
 
 You should now see something similar to this:
 
-![Press authorize and you'll be good to go!](/img/docs/adding/discord-oauth2.webp)
+![Press authorize and you'll be good to go!](/img/docs/adding/oauth_deux.webp)
 
 :::caution Note
 If you want to disable `Administrator` permission from Acoustic, it will not work properly! You will still be able to listen to basic music features but some things won't work.

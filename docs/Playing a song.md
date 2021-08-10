@@ -31,11 +31,11 @@ After [inviting Acoustic into your server](/adding_acoustic), you can get the pa
       {label: 'Play a Playlist', value: 'pp'},
     ]}>
     <TabItem value="ps"> To play a song, type <code>~play &lt;Song Name/Song URL&gt;</code><br/><br/>
-      <img src="/img/docs/playing-a-song/playsongname.webp" alt="example-1"/>
-      <img src="/img/docs/playing-a-song/playsonglink.webp" alt="example-2"/>
+      <img src="/img/docs/playing-a-song/play_song_string.webp" alt="example-1"/>
+      <img src="/img/docs/playing-a-song/play_song.webp" alt="example-2"/>
     </TabItem>
     <TabItem value="pp"> To play a playlist, type <code>~play &lt;PlaylistURL&gt;</code><br/><br/>
-      <img src="/img/docs/playing-a-song/playplaylist.webp" alt="example-pl"/>
+      <img src="/img/docs/playing-a-song/playlist.webp" alt="example-pl"/>
     </TabItem>
   </Tabs>
 
