@@ -183,7 +183,7 @@ module.exports = {
           blogDescription: 'The ramblings of the Developers @ Acoustic',
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Acoustic, Inc`,
+            copyright: `Copyright © ${new Date().getFullYear()} Acoustic`,
           },
         },
         theme: {
