@@ -31,7 +31,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              to: 'https://twitter.com/acousticlybot',
+              to: 'https://acoustic.to/twitter',
             },
           ],
         },
