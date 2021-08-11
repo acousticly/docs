@@ -18,7 +18,7 @@ The dev team was already _exhausted_ 😩 from adding the finishing touches to A
 
 However, monitoring had shown that there had been a massive performance degradation as we joined more and more servers.
 
-![Ping spikes](https://media.discordapp.net/attachments/873598906884313108/873598926018715708/ping-spikes.png?size=512)
+![Ping spikes](https://media.discordapp.net/attachments/873598906884313108/875068071931424768/ping-spikes_1.png)
 
 ## Performance Issues
 
