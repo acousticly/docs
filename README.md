@@ -1,3 +1,5 @@
+# Acoustic Docs
+
 ### Installation
 
 ```
