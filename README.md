@@ -1,4 +1,4 @@
-# Website
+# Acoustic Docs
 
 <a href="https://acoustic.freshstatus.io" id="freshstatus-badge-root"
   data-banner-style="highlighted">
