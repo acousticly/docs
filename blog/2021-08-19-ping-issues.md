@@ -5,7 +5,7 @@ author_title: Dev @ Acoustic
 author_url: https://github.com/jeve-stobs
 author_image_url: https://cdn.discordapp.com/attachments/873598906884313108/878036976920592394/ping-issues.webp?size=4096
 tags: [ping, lag, ping-spike]
-description: The ping issues that we are currently experiencing might be something more sinister than poor hosting.
+description: How we discovered the root of our issues & why they might be more difficult to curtail in the near future.
 hide_table_of_contents: false
 ---
 
