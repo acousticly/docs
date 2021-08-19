@@ -21,7 +21,7 @@ The extent to which I was wrong is the important part. I wasn't merely _incorrec
 
 My reason behind this was, "I can buy a more expensive server once I need it." Considering we were growing at a rate of +20% every week, it was necessary to upgrade our servers about once a week. I projected that this would occur. However, I didn't foresee the amount of frustration that downtime would cause users.
 
-## User downtime is a b*tch
+## Keeping things online sucks
 
 As evidenced by our status monitors, in the past 6-months Acoustic has been down for more than **24 hours**. Running some quick math, you can calculate that is a **98.9%** uptime. While that's not too much downtime, there were an estimated **120** songs lost and over **50** economy commands that were never registered.
 
@@ -34,4 +34,6 @@ I figured that our host was the issue, so I decided to do a series of server upg
 Here's a quick crash course on Node.js: While Node may have multi-threaded cluster support, a single process will only be allocated to a single thread. This means that if User A queues a command at the same time as User B queues a command, those commands can't be served at the same time. So they are served sequentially, meaning that the first user to issue a command will be the first user to receive a response.
 :::
 
-Long story short, I've made some changes to Acoustic that _should_ improve latency until the rewrite is complete, which should be done when it's done.
+# TL;DR
+
+I've made some changes to Acoustic that _should_ improve latency until the rewrite is complete, which should be done when it's done.
