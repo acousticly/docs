@@ -173,10 +173,8 @@ module.exports = {
       {
         changefreq: 'weekly',
         priority: 0.5,
-        trailingSlash: false,
       },
     ],
-    ['@docusaurus/plugin-debug'],
     require.resolve('docusaurus-lunr-search'),
   ],
   presets: [
