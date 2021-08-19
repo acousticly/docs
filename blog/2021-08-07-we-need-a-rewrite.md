@@ -3,7 +3,7 @@ title: We need a rewrite
 author: Jeve Stobs
 author_title: Dev @ Acoustic
 author_url: https://github.com/jeve-stobs
-author_image_url: https://cdn.discordapp.com/avatars/670024176312123423/0ad8dee53263af0b68af1d7ea7132238.png?size=4096
+author_image_url: https://cdn.discordapp.com/attachments/873598906884313108/878036976920592394/ping-issues.webp?size=4096
 tags: [rewrite, new-stuff]
 description: Yeah, we needed to rewrite the bot again....
 hide_table_of_contents: false
@@ -18,7 +18,7 @@ The dev team was already _exhausted_ 😩 from adding the finishing touches to A
 
 However, monitoring had shown that there had been a massive performance degradation as we joined more and more servers.
 
-![Ping spikes](https://media.discordapp.net/attachments/873598906884313108/875068071931424768/ping-spikes_1.png)
+![Ping spikes](https://cdn.discordapp.com/attachments/873598906884313108/878037989668843571/ping-spikes.webp)
 
 ## Performance Issues
 

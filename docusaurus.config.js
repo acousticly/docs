@@ -168,6 +168,15 @@ module.exports = {
         showLastUpdateTime: true,
       },
     ],
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        changefreq: 'weekly',
+        priority: 0.5,
+        trailingSlash: false,
+      },
+    ],
+    ['@docusaurus/plugin-debug'],
     require.resolve('docusaurus-lunr-search'),
   ],
   presets: [
@@ -179,7 +188,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
-          blogTitle: 'Acoustic\'s blog',
+          blogTitle: "Acoustic's blog",
           blogDescription: 'The ramblings of the Developers @ Acoustic',
           feedOptions: {
             type: 'all',
