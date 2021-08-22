@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Docs',
   url: 'https://docs.acoustic.to',
   baseUrl: '/',
-  favicon: 'img/favicon.webp',
+  favicon: 'img/meta.webp',
   organizationName: 'Acoustic',
   projectName: 'Acoustic-documentation',
   themeConfig: {
@@ -15,7 +15,7 @@ module.exports = {
       title: 'Docs',
       logo: {
         alt: 'acoustic-logo',
-        src: 'img/Acousticlight.webp',
+        src: 'img/meta.webp',
       },
       items: [{to: 'blog', label: 'Blog', position: 'left'}],
     },
