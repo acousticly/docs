@@ -36,4 +36,4 @@ Here's a quick crash course on Node.js: While Node may have multi-threaded clust
 
 # TL;DR
 
-I've made some changes to Acoustic that _should_ improve latency until the rewrite is complete, which should be done when it's done.
+I've made some changes to Acoustic that _should_ improve latency until the rewrite is complete, which should be done within a month.
