@@ -5,7 +5,7 @@ sidebar_label: What is Acoustic?
 custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/What%20is%20Acoustic.md
 ---
 
-### If you have no idea what you're doing here, then this article may be albe to help you!
+### If you have no idea what you're doing here, then this article may be able to help you!
 
 ---
 
