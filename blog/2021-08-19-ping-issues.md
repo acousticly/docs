@@ -36,4 +36,4 @@ Here's a quick crash course on Node.js: While Node may have multi-threaded clust
 
 # TL;DR
 
-I've made some changes to Acoustic that _should_ improve latency until the rewrite is complete, which should be done within a month.
+Acoustic's hosting issues were my fault. I didn't plan for the amount of growth we experienced, and I didn't plan for the amount of downtime that would occur. What's Next? As of now, we're still working on the same code base that we've been with the whole time and yeah, the rewrite couldn't come soon enough.
