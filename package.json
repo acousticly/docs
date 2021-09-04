@@ -13,9 +13,9 @@
     "format": "prettier --config .prettierrc --write \"**/*.{js,jsx,ts,tsx,json}\""
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.5",
-    "@docusaurus/plugin-sitemap": "^2.0.0-beta.5",
-    "@docusaurus/preset-classic": "^2.0.0-beta.5",
+    "@docusaurus/core": "^2.0.0-beta.6",
+    "@docusaurus/plugin-sitemap": "^2.0.0-beta.6",
+    "@docusaurus/preset-classic": "^2.0.0-beta.6",
     "classnames": "^2.3.1",
     "docusaurus": "^2.0.0-alpha.66",
     "docusaurus-lunr-search": "^2.1.14",
@@ -35,7 +35,7 @@
     ]
   },
   "devDependencies": {
-    "@docusaurus/plugin-debug": "^2.0.0-beta.5",
+    "@docusaurus/plugin-debug": "^2.0.0-beta.6",
     "prettier": "^2.3.2"
   }
 }
