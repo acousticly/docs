@@ -5,7 +5,7 @@ title: Terms Of Service
 custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Terms%20of%20Service.md
 ---
 
-# **Acoustic** TERMS OF SERVICE
+# Terms of Service for Acoustic
 
 Last Updated: **7/10/21**
 
