@@ -40,6 +40,6 @@ This rewrite is the **largest** yet and it opens up an entirely new world for wh
 We're really excited to show you all of the cool new things we have planned for this rewrite and the many releases to come.
 Thanks for sticking with us!
 
-TL;DR
+## TL;DR
 
 Acoustic is being rewritten in Rust for performance and stability.
