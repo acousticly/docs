@@ -175,7 +175,7 @@ module.exports = {
       src: 'https://plausible.io/js/plausible.js',
       async: true,
       defer: true,
-      'data-domain': 'acoustic.to',
+      'data-domain': 'docs.acoustic.to',
     },
   ],
   presets: [
