@@ -170,6 +170,14 @@ module.exports = {
     ],
     require.resolve('docusaurus-lunr-search'),
   ],
+  scripts: [
+    {
+      src: 'https://plausible.io/js/plausible.js',
+      async: true,
+      defer: true,
+      'data-domain': 'acoustic.to',
+    },
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
