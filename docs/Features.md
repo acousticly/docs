@@ -11,7 +11,7 @@ Acoustic has a bunch of features packed into it to make sure **you** have the mo
 
 ---
 
-Acoustic has the ability to play songs in your voice channel from sources such as **YouTube**, **Spotify**, **Soundcloud**, **MP3's**(yeah just normal audio clips from your pc) & any direct-link! On top of being able to play songs, Acoustic can also play playlists which then get added to a queue system. We also provide you with the top 10 search 🔎 results from YouTube when you run `searchsong`.
+Acoustic has the ability to play songs in your voice channel from sources such as **YouTube**, **Spotify**, **Soundcloud**, & _so_ much more! Go check out the [FAQ](/faq#what-music-sites-does-acoustic-currently-support) for the full list of supported sources. On top of being able to play songs, Acoustic can also play playlists which then get added to a queue system. We also provide you with the top 10 search 🔎 results from YouTube when you run `searchsong`.
 
 ![Play&Search](/img/docs/features/song_features.webp)
 

@@ -67,12 +67,16 @@ These are the current sites that music can be played from.
 
 1. [YouTube](https://www.youtube.com/)
 2. [SoundCloud](https://www.soundcloud.com/)
-3. [Twitch](https://www.twitch.tv/)
-4. [Vimeo](https://www.vimeo.com/)
-5. [BandCamp](https://www.bandcamp.com)
-6. [Spotify](https://www.spotify.com/)
-7. MP3
-8. Direct Links
+3. [Reddit](https://reddit.com)
+4. [Spotify](https://www.spotify.com/)
+5. [Twitch](https://www.twitch.tv/)
+6. [Vimeo](https://www.vimeo.com/)
+7. [BandCamp](https://www.bandcamp.com)
+8. [Apple Music](https://music.apple.com)
+9. [Getyarn](https://getyarn.io/)
+10. [Yandex Music](https://music.yandex.com)
+11. [Odysee](https://odysee.com/)
+12. Direct Links
 
 ### Can I make custom commands for Acoustic?
 
