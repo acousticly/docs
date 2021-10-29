@@ -1,6 +1,6 @@
 {
   "name": "acoustic-docs",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "license:": "MIT",
   "scripts": {
     "start": "docusaurus start",
