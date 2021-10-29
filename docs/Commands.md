@@ -17,40 +17,40 @@ custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Commands.md
 
 ## Music
 
-| Command      | description                                                                           | Usage                                              |
-| ------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 247          | Stays in the voice channel even if no one is in it.                                   | `~24/7`                                            |
-| add          | Add a song to the playlist                                                            | `~add <playlist name> <song>`                      |
-| back         | Plays the previous song in the queue.                                                 | `~back`                                             |
-| bassboost    | Bassboost the song                                                                    | `~bassboost [value]`                               |
-| create       | Create a playlist                                                                     | `~create <playlist name> <search query/link>`      |
-| dc           | Disconnects the bot from the voice channel.                                           | `~dc`                                               |
-| delete       | Delete a playlist                                                                     | `~delete <playlist name>`                          |
-| eliminate    | remove a song from the playlist                                                       | `~eliminate <playlist name> <position> [position]` |
-| fast-forward | Fast forwards the player by your specified amount.                                    | `~fast-forward <time>`                             |
-| join         | Makes the bot join your voice channel.                                                | `~join`                                             |
-| load         | Load a playlist                                                                       | `~load <playlist name>`                            |
-| loop         | Loops the song or queue.                                                              | `~loop [queue / song]`                             |
-| lyrics       | Get lyrics on a song.                                                                 | `~lyrics <song>`                                   |
-| move         | Moves the specified song to the specified position.                                   | `~move <position> <new position>`                  |
-| nightcore    | Toggles nightcore mode.                                                               | `~nightcore`                                        |
-| np           | Shows the current song playing.                                                       | `~np`                                               |
-| pause        | Pauses the music.                                                                     | `~pause`                                            |
-| pitch        | Sets the player's pitch. If you input "reset", it will set the pitch back to default. | `~pitch <0-9 / reset>`                                            |
-| play         | Play a song.                                                                          | `~play <link / song name>`                         |
-| previous     | Displays the previous tracks that have been played.                                   | `~previous [pageNumber]`                           |
-| queue        | Displays the queue.                                                                   | `~queue [pageNumber]`                              |
-| remove       | Removes a song from the queue                                                         | `~remove <position> [position]`                    |
-| resume       | Resumes the music.                                                                    | `~resume`                                           |
-| rewind       | Rewinds the player by your specified amount.                                          | `~rewind <time>`                                   |
-| search       | Searches for a song.                                                                  | `~search <link / song name>`                       |
-| seek         | Sets the playing track's position to the specified position.                          | `~seek <time>`                                     |
-| shuffle      | Shuffles the playlist.                                                                | `~shuffle`                                         |
-| skip         | Skips the current song.                                                               | `~skip`                                            |
-| speed        | Sets the player's playback speed.                                                     | `~speed <number>`                                  |
-| vaporwave    | Toggles vaporwave mode.                                                               | `~vaporwave`                                       |
-| view         | View a playlist                                                                       | `~view <playlist name>`                            |
-| volume       | Changes the volume of the song                                                        | `~volume <number>`                                 |
+| Command      | description                                                                           | Usage                                             |
+| ------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 247          | Stays in the voice channel even if no one is in it.                                   | `24/7`                                            |
+| add          | Add a song to the playlist                                                            | `add <playlist name> <song>`                      |
+| back         | Plays the previous song in the queue.                                                 | `back`                                            |
+| bassboost    | Bassboost the song                                                                    | `bassboost [value]`                               |
+| create       | Create a playlist                                                                     | `create <playlist name> <search query/link>`      |
+| dc           | Disconnects the bot from the voice channel.                                           | `dc`                                              |
+| delete       | Delete a playlist                                                                     | `delete <playlist name>`                          |
+| eliminate    | remove a song from the playlist                                                       | `eliminate <playlist name> <position> [position]` |
+| fast-forward | Fast forwards the player by your specified amount.                                    | `fast-forward <time>`                             |
+| join         | Makes the bot join your voice channel.                                                | `join`                                            |
+| load         | Load a playlist                                                                       | `load <playlist name>`                            |
+| loop         | Loops the song or queue.                                                              | `loop [queue / song]`                             |
+| lyrics       | Get lyrics on a song.                                                                 | `lyrics [song]`                                   |
+| move         | Moves the specified song to the specified position.                                   | `move <position> <new position>`                  |
+| nightcore    | Toggles nightcore mode.                                                               | `nightcore`                                       |
+| np           | Shows the current song playing.                                                       | `np`                                              |
+| pause        | Pauses the music.                                                                     | `pause`                                           |
+| pitch        | Sets the player's pitch. If you input "reset", it will set the pitch back to default. | `pitch`                                           |
+| play         | Play a song.                                                                          | `play <link / song name>`                         |
+| previous     | Displays the previous tracks that have been played.                                   | `previous [pageNumber]`                           |
+| queue        | Displays the queue.                                                                   | `queue [pageNumber]`                              |
+| remove       | Removes a song from the queue                                                         | `remove <position> [position]`                    |
+| resume       | Resumes the music.                                                                    | `resume`                                          |
+| rewind       | Rewinds the player by your specified amount.                                          | `rewind <time>`                                   |
+| search       | Searches for a song.                                                                  | `search <link / song name>`                       |
+| seek         | Sets the playing track's position to the specified position.                          | `seek <time>`                                     |
+| shuffle      | Shuffles the playlist.                                                                | `shuffle`                                         |
+| skip         | Skips the current song.                                                               | `skip`                                            |
+| speed        | Sets the player's playback speed.                                                     | `speed <Number>`                                  |
+| vaporwave    | Toggles vaporwave mode.                                                               | `vaporwave`                                       |
+| view         | View a playlist                                                                       | `view <playlist name>`                            |
+| volume       | Changes the volume of the song                                                        | `volume <Number>`                                 |
 
 ## Economy
 
@@ -76,27 +76,28 @@ custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Commands.md
 | Withdraw    | Withdraws money from your vault.                                                                 | `~withdraw`                          |
 | Work        | Get a job and start working to earn money.                                                       | `~work \<get> \<id> Then use ~work`  |
 
-## Info
-
-| Command | description                                               | Usage             |
-| ------- | --------------------------------------------------------- | ----------------- |
-| help    | Sends information about all the commands that I can do.   | `~help [command]` |
-| invite  | Send an invite link so people can add me to their server. | `~invite`         |
-| privacy | Sends a link to the privacy policy.                       | `~privacy`        |
-| status  | Gets the status of the bot.                               | `~status`         |
-| support | Get support on the bot.                                   | `~support`        |
-| uptime  | Gets the uptime of the bot.                               | `~uptime`         |
-| ping    | Displays the latency of Acoustc at the current time.      | `~ping`           |
-
 ## Fun
 
-| Command  | description                                                       | Usage       |
-| -------- | ----------------------------------------------------------------- | ----------- |
-| youtube  | Watch YouTube with your friends in a voice channel.               | `~youtube`  |
-| poker    | Play poker with your friends in a voice channel.                  | `~poker`    |
-| chess    | Play chess with your friends in a voice channel.                  | `~chess`    |
-| betrayal | Play betrayal with your friends in a voice channel.               | `~betrayal` |
-| fishing  | Play fishing by yourself or with your friends in a voice channel. | `~fishing`  |
+| Command    | description                                                       | Usage         |
+| ---------- | ----------------------------------------------------------------- | ------------- |
+| youtube    | Watch YouTube with your friends in a voice channel.               | `~youtube`    |
+| poker      | Play poker with your friends in a voice channel.                  | `~poker`      |
+| chess      | Play chess with your friends in a voice channel.                  | `~chess`      |
+| betrayal   | Play betrayal with your friends in a voice channel.               | `~betrayal`   |
+| fishing    | Play fishing by yourself or with your friends in a voice channel. | `~fishing`    |
+| lettertile | Play lettertile with your friends in a voice channel.             | `~lettertile` |
+| wordsnack  | Play wordsnack with your friends in a voice channel.              | `~wordsnack`  |
+| doodlecrew | Play doodlecrew with your friends in a voice channel.             | `~doodlecrew` |
+
+## Info
+
+| Command | description                                               | Usage            |
+| ------- | --------------------------------------------------------- | ---------------- |
+| help    | Sends information about all the commands that I can do.   | `help [command]` |
+| invite  | Send an invite link so people can add me to their server. | `invite`         |
+| privacy | Sends a link to the privacy policy.                       | `privacy`        |
+| uptime  | Sends a timestamp of how long the bot has been online     | `uptime`         |
+| ping    | Displays the latency of Acoustc at the current time.      | `ping`           |
 
 ## Misc
 
