@@ -19,10 +19,6 @@ module.exports = {
       'getting_money',
       'profile_info',
       'bases'
-    ],
-    'Legal Junk': [
-      'privacy',
-      'terms'
     ]
   },
 };

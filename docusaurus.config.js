@@ -57,11 +57,11 @@ module.exports = {
             },
             {
               label: 'Privacy Policy',
-              to: '/privacy',
+              to: 'https://acoustic.to/privacy',
             },
             {
               label: 'Terms Of Service',
-              to: '/terms',
+              to: 'https://acoustic.to/terms',
             },
           ],
         },
