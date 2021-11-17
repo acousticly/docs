@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Acoustic',
-  tagline: 'Docs',
+  tagline: 'Acoustic is the fastest, most feature rich bot ever.',
   url: 'https://docs.acoustic.to',
   baseUrl: '/',
   favicon: 'img/meta.webp',
