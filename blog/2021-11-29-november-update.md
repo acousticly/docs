@@ -1,5 +1,5 @@
 ---
-title: November Update (0.9.6-Music)
+title: November Update
 author: Jeve Stobs
 author_title: Dev @ Acoustic
 author_url: https://github.com/jeve-stobs
@@ -9,7 +9,7 @@ description: Pretty sizeable Music update with some new commands, and major twea
 hide_table_of_contents: false
 ---
 
-Pretty sizeable Music update with some new commands, and major tweaks. ➜
+Pretty sizeable Music update with some new commands and major tweaks. ➜
 
 Check out our new site! https://acoustic.to
 <!--truncate-->
