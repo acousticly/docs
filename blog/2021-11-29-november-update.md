@@ -17,7 +17,7 @@ Check out our new site! https://acoustic.to
 ### Added:
 #### Music has new commands :partying_face:
 - `playnext` When you really want to show your friends a funny video that just can't wait. The playnext command moves songs to the front of the queue **without** skipping the currently playing song.
-- `shuffleplay` Are you getting tired of hearing the same songs when you queue a playlist on Acoustic? Well no more. Now you can auto-shuffle playlists and queue them instantly! :star_struck
+- `shuffleplay` Are you getting tired of hearing the same songs when you queue a playlist on Acoustic? Well no more. Now you can auto-shuffle playlists and queue them instantly! :star_struck:
 - `clearqueue` This is a long-awaited command, and it's finally here! It clears the queue **without** disconnecting the bot. How revolutionary and innovative...
 #### `Lyrics` command gets a full rework with buttons support
 And it looks pretty awesome, if I do say so myself <br />
