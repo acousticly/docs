@@ -9,7 +9,7 @@ description: Minor October update that includes new interactions, and slight com
 hide_table_of_contents: false
 ---
 
-Minor October update that includes new interactions, and slight command changes. ➜
+Minor October update that includes new interactions and slight command changes. ➜
 
 <!--truncate-->
 
