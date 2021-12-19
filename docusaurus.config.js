@@ -190,7 +190,7 @@ module.exports = {
           customCss: require.resolve('./src/css/normalize.min.css'),
         },
         sitemap: {
-          changefreq: 'monthly',
+          changefreq: 'daily',
           priority: 0.6,
         },
       },
