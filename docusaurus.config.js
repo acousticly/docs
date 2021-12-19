@@ -7,6 +7,8 @@ module.exports = {
   organizationName: 'Acoustic',
   projectName: 'Acoustic-documentation',
   themeConfig: {
+    image: 'img/meta.webp',
+    metadata: [{ name: 'twitter:card', content: 'summary' }],
     colorMode: {
       defaultMode: 'dark',
     },
