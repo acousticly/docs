@@ -97,7 +97,7 @@ module.exports = {
           return `https://github.com/acousticly/docs/edit/master/docs/${docPath}`;
         },
         routeBasePath: 'docs',
-        include: ['**/*.md', '**/*.mdx'], // Extensions to include.
+        include: ['**/*.mdx'], // Extensions to include.
         sidebarPath: 'sidebars.js',
         sidebarItemsGenerator: async function ({
           defaultSidebarItemsGenerator, // useful to re-use/enhance default sidebar generation logic from Docusaurus
@@ -168,6 +168,12 @@ module.exports = {
         showLastUpdateTime: true,
       },
     ],
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+      },
+    ], 
     require.resolve('docusaurus-lunr-search'),
   ],
   presets: [

@@ -2,13 +2,14 @@
 id: adding_acoustic
 description: How to add the most amazing Discord bot in history!
 title: Adding Acoustic
-custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Adding%20Acoustic.md
+custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Adding%20Acoustic.mdx
 author: Joel Marcey
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import { Button } from '../Buttons/button';
+import {Button} from '../Buttons/button';
+import Image from '@theme/IdealImage';
 
 Ready to start listening with Acoustic? Well it's super easy so let's get into it!
 
@@ -17,26 +18,39 @@ Ready to start listening with Acoustic? Well it's super easy so let's get into i
 ---
 
 export const Highlight = ({children, color}) => (
-<span
-style={{
+  <span
+    style={{
       borderRadius: '2px',
       color: color,
       padding: '0.2rem',
-    }}>
-{children}
-</span>
+    }}
+  >
+    {children}
+  </span>
 );
 
 <table>
   <tr>
     <th>
-      <Button onClick = {() => window.open('https://acoustic.to/invite','_blank')} buttonStyle = "btn--acoustic--1">Invite  </Button>
+      <Button
+        onClick={() => window.open('https://acoustic.to/invite', '_blank')}
+        buttonStyle="btn--acoustic--1"
+      >
+        Invite{' '}
+      </Button>
     </th>
     <td>
       <ul>
-        <h2><Highlight color="#5865F2">👋 Acoustic</Highlight> (<code>Acoustic#8707</code>)</h2>
-        <li>Prefix: <code>~</code></li>
-        <li><strong>You should probably click the big invite button ;)</strong></li>
+        <h2>
+          <Highlight color="#5865F2">👋 Acoustic</Highlight> (
+          <code>Acoustic#8707</code>)
+        </h2>
+        <li>
+          Prefix: <code>~</code>
+        </li>
+        <li>
+          <strong>You should probably click the big invite button ;)</strong>
+        </li>
       </ul>
     </td>
   </tr>

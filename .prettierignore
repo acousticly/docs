@@ -8,6 +8,6 @@ __fixtures__
 website/i18n
 website/versions.json
 sidebars.js
-docs/Commands.md
-docs/Playing a song.md
+docs/Commands.mdx
+docs/Playing a song.mdx
 build
