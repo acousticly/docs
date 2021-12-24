@@ -6,7 +6,9 @@ module.exports = {
   favicon: 'img/meta.webp',
   organizationName: 'Acoustic',
   projectName: 'Acoustic-documentation',
-  stylesheets: ['https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css'],
+  stylesheets: [
+    'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css',
+  ],
   themeConfig: {
     image: 'img/meta.webp',
     metadata: [{name: 'twitter:card', content: 'summary'}],
