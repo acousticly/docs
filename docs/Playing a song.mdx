@@ -8,6 +8,7 @@ custom_edit_url: https://github.com/acousticly/docs/edit/master/docs/Playing%20a
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Image from '@theme/IdealImage';
 
 After [inviting Acoustic into your server](/adding_acoustic), you can get the party started! To begin playing songs through Acoustic, follow this guide:
 
@@ -15,11 +16,11 @@ After [inviting Acoustic into your server](/adding_acoustic), you can get the pa
 ## 1. Join a Voice Channel.
   - You can do that by clicking on the channel with a speaker icon.
 
-  ![Voice Channel image](/img/docs/playing-a-song/joinVC.webp)
+  <Image img={require('../static/img/docs/playing-a-song/joinVC.png')} />
 
 ## 2. Summon Acoustic into the Voice Channel
   - You can make Acoustic join the Voice Channel by typing `~join`.
-  ![Joining a Voice Channel](/img/docs/playing-a-song/acousticjoin.webp)
+  ![Joining a Voice Channel](/img/docs/playing-a-song/acousticjoin.png)
 
 ## 3. Start your music.
 
@@ -31,11 +32,10 @@ After [inviting Acoustic into your server](/adding_acoustic), you can get the pa
       {label: 'Play a Playlist', value: 'pp'},
     ]}>
     <TabItem value="ps"> To play a song, type <code>~play &lt;Song Name/Song URL&gt;</code><br/><br/>
-      <img src="/img/docs/playing-a-song/play_song_string.webp" alt="example-1"/>
-      <img src="/img/docs/playing-a-song/play_song.webp" alt="example-2"/>
+      <img src="/img/docs/playing-a-song/play_song_string.png" alt="playing a song using slash commands"/>
     </TabItem>
     <TabItem value="pp"> To play a playlist, type <code>~play &lt;PlaylistURL&gt;</code><br/><br/>
-      <img src="/img/docs/playing-a-song/playlist.webp" alt="example-pl"/>
+      <img src="/img/docs/playing-a-song/playlist.png" alt="playing a playlist using slash commands"/>
     </TabItem>
   </Tabs>
 
@@ -46,4 +46,4 @@ After [inviting Acoustic into your server](/adding_acoustic), you can get the pa
 ## 4. Search for more results
   - If you need more search results, you can use `!searchsong <song name>` and choose the option you want.
 
-  ![Searching a song](/img/docs/playing-a-song/searchsong.webp)
+  ![Searching a song](/img/docs/playing-a-song/searchsong.png)
