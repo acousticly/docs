@@ -173,7 +173,7 @@ module.exports = {
       {
         quality: 70,
       },
-    ], 
+    ],
     require.resolve('docusaurus-lunr-search'),
   ],
   presets: [

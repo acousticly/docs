@@ -9,7 +9,7 @@
     "swizzle": "docusaurus swizzle",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
-    "format-docs": "prettier --config .prettierrc --write \"**/*.{mdx}\"",
+    "format-docs": "prettier --config .prettierrc --write \"**/*.{md,mdx}\"",
     "format": "prettier --config .prettierrc --write \"**/*.{js,jsx,ts,tsx,json}\""
   },
   "dependencies": {
