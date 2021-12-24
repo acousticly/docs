@@ -6,9 +6,10 @@ module.exports = {
   favicon: 'img/meta.webp',
   organizationName: 'Acoustic',
   projectName: 'Acoustic-documentation',
+  stylesheets: ['./src/css/normalize.css'],
   themeConfig: {
     image: 'img/meta.webp',
-    metadata: [{ name: 'twitter:card', content: 'summary' }],
+    metadata: [{name: 'twitter:card', content: 'summary'}],
     colorMode: {
       defaultMode: 'dark',
     },
@@ -184,10 +185,6 @@ module.exports = {
             type: 'all',
             copyright: `Copyright © ${new Date().getFullYear()} Acoustic`,
           },
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-          customCss: require.resolve('./src/css/normalize.min.css'),
         },
         sitemap: {
           changefreq: 'daily',
