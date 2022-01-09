@@ -11,7 +11,6 @@ module.exports = {
   ],
   themeConfig: {
     image: 'img/meta.webp',
-    metadata: [{name: 'twitter:card', content: 'summary'}],
     colorMode: {
       defaultMode: 'dark',
     },
