@@ -10,7 +10,6 @@ module.exports = {
     'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css',
   ],
   themeConfig: {
-    image: 'img/meta.webp',
     colorMode: {
       defaultMode: 'dark',
     },
