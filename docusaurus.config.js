@@ -56,7 +56,7 @@ module.exports = {
           items: [
             {
               label: 'Status 🔴',
-              to: 'https://stats.uptimerobot.com/ZXE1WIMp92',
+              to: 'https://status.acoustic.to',
             },
             {
               label: 'Privacy Policy',
