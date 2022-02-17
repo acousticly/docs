@@ -1,0 +1,82 @@
+---
+title: February Update
+author: Jeve Stobs
+author_title: Dev @ Acoustic
+author_url: https://github.com/jeve-stobs
+author_image_url: https://cdn.discordapp.com/attachments/873598906884313108/878036976920592394/ping-issues.webp?size=4096
+tags: [update, february, music]
+description: Refinement&#58;⚡blazing fast performance & UX improvements.
+hide_table_of_contents: false
+---
+
+Refinement&#58; ⚡blazing fast performance & UX improvements. ➜
+
+<!--truncate-->
+
+## Wen big update?
+
+As Acoustic grows, so does its global reach. We stive to provide the same amazing service in Shanhhai as we do in the states.
+This update mainly deals with latency improvements and other backend refactoring. We have some 👀 **big** stuff planned for Acoustic
+coming next month, and this update laid the foundation for that.
+
+`TL;DR` We've reduced out memory footprint by `~50%` and decreased response time by `~30%`.
+
+### Check out [/favorites](/favorites) for info on how to use favorites!
+
+## Added:
+
+- Improved nowplaying command <br />
+
+  <img
+    src="https://cdn.jevestobs.dev/UYFV9HgWKtUWM5ztdgDX.png"
+    alt="nowplaying command"
+    width="50%"
+  />
+
+- More interactions on trackStart
+
+  <img
+    src="https://cdn.jevestobs.dev/RWb705oxFmCn0FMLaqRU.png"
+    alt="nowplaying command"
+    width="50%"
+  />
+
+- Load time indicator when loading playlists
+
+  <img
+    src="https://cdn.jevestobs.dev/018bHBfETEwBX8b5dXyA.png"
+    alt="nowplaying command"
+    width="60%"
+  />
+
+- `load-favorites` command
+  <img
+    src="https://cdn.jevestobs.dev/b05wXy8M9N90VD5Gphfs.png"
+    alt="nowplaying command"
+    width="50%"
+  />
+
+## Changed:
+
+- Split Acoustic into seperate processes
+- New color palette
+- New database (Over `197%` faster - not a typo)
+- Internal API improvements - makes it easier for us to retroactively fix bigs
+- Clearer distinction between a Discord error and an internal error
+- Autocomplete query improvements
+
+## Fixed:
+
+- Favorites being corrupted by data collisions
+- Fix filters delay after skipping
+- Fix nondeterministic behavior when using the `skip` and `back` command simultaneously
+- Fix bot leaving vc after a `close 1006 (abnormal closure)`
+- Remove confliciting alias on `playnext`
+- Reaction acessibility improvements
+- Oversight that allowed unauthorized users to give themselves premium 😅
+- Completely fix `cyclic dependency error` when favoriting a song
+- Follow through on interactions after a ratelimit error
+- Deletion failing after a track ends
+- And a lot more...
+
+## If you notice that something's amiss, please [report it](https://acoustic.to/support?ref=update-february)
