@@ -7,11 +7,12 @@ module.exports = {
     'Getting Started': [
       'adding_acoustic',
       'play_song',
-    ],
-    'Basic Stuff': [
-      'faq',
       'commands',
-      `playlists`
+    ],
+    'Advanced': [
+      'faq',
+      `playlists`,
+      'favorites'
 
     ],
     'Economy': [
