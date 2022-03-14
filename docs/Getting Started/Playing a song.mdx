@@ -1,0 +1,66 @@
+---
+id: play_song
+description: Learn how to play songs with Acoustic!
+title: Playing a Song
+slug: /play-song
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import Image from '@theme/IdealImage';
+
+After [inviting Acoustic into your server](/adding-acoustic), you can get the party started! To begin playing songs through Acoustic, follow this guide:
+
+## 1. Join a Voice Channel.
+
+- You can do that by clicking on the channel with a speaker icon.
+
+![Joining a Voice Channel](/img/docs/playing-a-song/joinVC.png)
+
+## 2. Summon Acoustic into the Voice Channel
+
+- You can make Acoustic join the Voice Channel by typing `~join`.
+  ![Joining a Voice Channel](/img/docs/playing-a-song/acousticjoin.png)
+
+## 3. Start your music.
+
+- Use the command `~play` to start your music.
+  <Tabs
+    defaultValue="ps"
+    values={[
+      {label: 'Play a Song', value: 'ps'},
+      {label: 'Play a Playlist', value: 'pp'},
+    ]}
+  >
+    <TabItem value="ps">
+      {' '}
+      To play a song, type <code>~play &lt;Song Name/Song URL&gt;</code>
+      <br />
+      <br />
+      <Image
+        img={require('../../static/img/docs/playing-a-song/play_song_string.png')}
+      />
+    </TabItem>
+    <TabItem value="pp">
+      {' '}
+      To play a playlist, type <code>~play &lt;PlaylistURL&gt;</code>
+      <br />
+      <br />
+      <Image
+        img={require('../../static/img/docs/playing-a-song/playlist.png')}
+      />
+    </TabItem>
+  </Tabs>
+
+:::caution When playing a playlist:
+
+- Make sure the playlist is either `Unlisted` or `Public`. If it is set to `Private`, Acoustic won't be able to play that specific playlist.
+  :::
+
+## 4. Search for more results
+
+- If you need more search results, you can use `!searchsong <song name>` and choose the option you want.
+
+{' '}
+
+<Image img={require('../../static/img/docs/playing-a-song/searchsong.png')} />
