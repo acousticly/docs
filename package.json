@@ -15,6 +15,7 @@
     "format": "prettier --config .prettierrc --write \"**/*.{js,jsx,ts,tsx,json}\""
   },
   "dependencies": {
+    "-": "^0.0.1",
     "@docusaurus/core": "^2.0.0-beta.17",
     "@docusaurus/plugin-content-docs": "^2.0.0-beta.17",
     "@docusaurus/plugin-ideal-image": "^2.0.0-beta.17",
@@ -24,6 +25,7 @@
     "autocomplete.js": "^0.38.1",
     "classnames": "^2.3.1",
     "docusaurus-lunr-search": "^2.1.15",
+    "f": "^1.4.0",
     "hogan.js": "^3.0.2",
     "lunr": "^2.3.9",
     "react": "^17.0.2",
