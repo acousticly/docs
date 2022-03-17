@@ -14,7 +14,7 @@ module.exports = {
         {
           type: 'doc',
           id: 'Introduction/features',
-        }
+        },
       ],
     },
     {
@@ -28,7 +28,8 @@ module.exports = {
         {
           type: 'doc',
           id: 'Getting Started/play_song',
-        },{
+        },
+        {
           type: 'doc',
           id: 'Getting Started/commands',
         },
@@ -45,7 +46,8 @@ module.exports = {
         {
           type: 'doc',
           id: 'Advanced/playlists',
-        },{
+        },
+        {
           type: 'doc',
           id: 'Advanced/favorites',
         },
@@ -62,7 +64,8 @@ module.exports = {
         {
           type: 'doc',
           id: 'Economy/getting_money',
-        },{
+        },
+        {
           type: 'doc',
           id: 'Economy/profile_info',
         },
