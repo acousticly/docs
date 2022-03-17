@@ -1,3 +1,5 @@
+// @ts-check
+
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -17,22 +19,18 @@ const config = {
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./sidebars.ts'),
           editUrl: 'https://github.com/acousticly/docs/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarCollapsible: true,
           path: 'docs',
-          editUrl: 'https://github.com/acousticly/docs/edit/master/docs/',
           routeBasePath: '/',
           include: ['**/**/*.mdx'],
-          sidebarPath: 'sidebars.js',
           docLayoutComponent: '@theme/DocPage',
           docItemComponent: '@theme/DocItem',
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
         },
         blog: {
           blogTitle: "Acoustic's Blog",
@@ -51,7 +49,7 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
@@ -66,7 +64,7 @@ const config = {
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
       navbar: {
         title: 'Docs',
         logo: {
@@ -131,7 +129,7 @@ const config = {
       colorMode: {
         defaultMode: 'dark',
       },
-    }),
+    },
 };
 
 module.exports = config;
