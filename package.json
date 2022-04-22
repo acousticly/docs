@@ -4,7 +4,7 @@
   "license:": "MIT",
   "scripts": {
     "start": "docusaurus start",
-    "build": "npm run format-docs && npm run format && docusaurus build",
+    "build": "npm run format && docusaurus build",
     "dev": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "serve": "docusaurus serve",
