@@ -27,8 +27,8 @@
     "docusaurus-lunr-search": "^2.1.15",
     "hogan.js": "^3.0.2",
     "lunr": "^2.3.9",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
     "url-loader": "^4.1.1"
   },
   "browserslist": {
