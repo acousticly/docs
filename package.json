@@ -16,11 +16,11 @@
     "format": "prettier --config .prettierrc --write \"**/*.{js,jsx,ts,tsx,json}\""
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.20",
-    "@docusaurus/plugin-content-docs": "^2.0.0-beta.20",
-    "@docusaurus/plugin-ideal-image": "^2.0.0-beta.20",
-    "@docusaurus/plugin-sitemap": "^2.0.0-beta.20",
-    "@docusaurus/preset-classic": "^2.0.0-beta.20",
+    "@docusaurus/core": "^2.0.0-beta.21",
+    "@docusaurus/plugin-content-docs": "^2.0.0-beta.21",
+    "@docusaurus/plugin-ideal-image": "^2.0.0-beta.21",
+    "@docusaurus/plugin-sitemap": "^2.0.0-beta.21",
+    "@docusaurus/preset-classic": "^2.0.0-beta.21",
     "@mdx-js/react": "^1.6.22",
     "autocomplete.js": "^0.38.1",
     "classnames": "^2.3.1",
@@ -44,11 +44,11 @@
     ]
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.0.0-beta.20",
-    "@docusaurus/plugin-debug": "^2.0.0-beta.20",
+    "@docusaurus/module-type-aliases": "2.0.0-beta.21",
+    "@docusaurus/plugin-debug": "^2.0.0-beta.21",
     "@tsconfig/docusaurus": "^1.0.5",
     "prettier": "^2.6.2",
-    "typescript": "^4.6.4"
+    "typescript": "^4.7.2"
   },
   "optionalDependencies": {
     "@algolia/client-search": "^4.13.1",
