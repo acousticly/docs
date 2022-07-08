@@ -22,7 +22,7 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.ts'),
-          editUrl: 'https://github.com/acousticly/docs/',
+          editUrl: 'https://github.com/acousticly/docs/tree/master',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarCollapsible: true,
