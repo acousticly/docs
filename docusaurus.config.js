@@ -60,7 +60,16 @@ const config = {
         quality: 70,
       },
     ],
-    require.resolve('docusaurus-lunr-search'),
+    require.resolve('docusaurus-plugin-image-zoom'),
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        indexPages: true,
+        docsRouteBasePath: '/',
+        blogRouteBasePath: '/blog',
+      },
+    ],
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -128,6 +137,14 @@ const config = {
       },
       colorMode: {
         defaultMode: 'dark',
+      },
+      zoom: {
+        selector: '.markdown :not(em) > img',
+        background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)',
+        },
+        config: {},
       },
     },
 };
