@@ -9,7 +9,7 @@ specifiers:
   '@docusaurus/plugin-sitemap': ^2.0.0-rc.1
   '@docusaurus/preset-classic': ^2.0.0-rc.1
   '@docusaurus/types': 2.0.0-rc.1
-  '@easyops-cn/docusaurus-search-local': ^0.29.2
+  '@easyops-cn/docusaurus-search-local': ^0.29.3
   '@mdx-js/react': ^1.6.22
   '@tsconfig/docusaurus': ^1.0.6
   '@types/node': ^18.0.6
@@ -30,7 +30,7 @@ dependencies:
   '@docusaurus/plugin-sitemap': 2.0.0-rc.1_xrxvbtylmve4l2tr3vmmqgfp7q
   '@docusaurus/preset-classic': 2.0.0-rc.1_egeabnadkmsneosu3xikr6dtym
   '@docusaurus/types': 2.0.0-rc.1_biqbaboplfbrettd7655fr4n2y
-  '@easyops-cn/docusaurus-search-local': 0.29.2_ooztwxvc3s3jrxkokvauq3rrjy
+  '@easyops-cn/docusaurus-search-local': 0.29.3_ooztwxvc3s3jrxkokvauq3rrjy
   '@mdx-js/react': 1.6.22_react@18.2.0
   docusaurus-plugin-image-zoom: 0.1.1
   react: 18.2.0
@@ -2326,8 +2326,8 @@ packages:
       immediate: 3.3.0
     dev: false
 
-  /@easyops-cn/docusaurus-search-local/0.29.2_ooztwxvc3s3jrxkokvauq3rrjy:
-    resolution: {integrity: sha512-g8Zm2dWklzW4u0B58vCgWLieJO67T8DyTQi2o4+1TIQJmccYmFr/buf6w2zKNRgIOW6IERseQgZ3+zO08SBEmw==}
+  /@easyops-cn/docusaurus-search-local/0.29.3_ooztwxvc3s3jrxkokvauq3rrjy:
+    resolution: {integrity: sha512-9XlYHvLiZg24TNn+YLwlj5Il21fd73nK6pf5nUU1rpyt41d9lzT0VEWxKw/zoGfoSZ4Er3LiDPhPep/75NWSUg==}
     engines: {node: '>=12'}
     peerDependencies:
       '@docusaurus/theme-common': ^2.0.0-rc.1
@@ -5647,7 +5647,7 @@ packages:
     engines: {node: '>=10'}
 
   /ms/2.0.0:
-    resolution: {integrity: sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g=}
+    resolution: {integrity: sha512-Tpp60P6IUJDTuOq/5Z8cdskzJujfwqfOTkrwIwj7IRISpnkJnT6SyJ4PCPnGMoFjC9ddhal5KVIYtAt97ix05A==}
 
   /ms/2.1.2:
     resolution: {integrity: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==}
