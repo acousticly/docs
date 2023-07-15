@@ -9,7 +9,7 @@ slug: /commands
 
 ### Keep this in mind!
 
-- The default prefix of Acoustic is `~`. If you have changed your prefix to something else, please use your prefix instead of `~`. If you forget your prefix, mention Acoustic (`@Acoustic`).
+- The default prefix of Acoustic is `~`. If you forget the prefix, mention Acoustic (`@Acoustic`).
 - **Never include `<>` in your messages when using a command!**
 - Time can be in different formats
   - Example: `100`, `2m30s`
@@ -26,7 +26,6 @@ slug: /commands
 | create       | Create a playlist                                                                     | `create <playlist name> <search query/link>`      |
 | dc           | Disconnects the bot from the voice channel.                                           | `dc`                                              |
 | delete       | Delete a playlist                                                                     | `delete <playlist name>`                          |
-| eliminate    | remove a song from the playlist                                                       | `eliminate <playlist name> <position> [position]` |
 | fast-forward | Fast forwards the player by your specified amount.                                    | `fast-forward <time>`                             |
 | join         | Makes the bot join your voice channel.                                                | `join`                                            |
 | load         | Load a playlist                                                                       | `load <playlist name>`                            |
@@ -38,6 +37,7 @@ slug: /commands
 | pause        | Pauses the music.                                                                     | `pause`                                           |
 | pitch        | Sets the player's pitch. If you input "reset", it will set the pitch back to default. | `pitch`                                           |
 | play         | Play a song.                                                                          | `play <link / song name>`                         |
+| playlist-remove    | Remove a song from the playlist                                                 | `playlist-remove <playlist name> <position> [position]` |
 | previous     | Displays the previous tracks that have been played.                                   | `previous [pageNumber]`                           |
 | queue        | Displays the queue.                                                                   | `queue [pageNumber]`                              |
 | remove       | Removes a song from the queue                                                         | `remove <position> [position]`                    |
@@ -54,27 +54,27 @@ slug: /commands
 
 ## Economy
 
-| Command     | Description                                                                                      | Usage                                |
-| ----------- | ------------------------------------------------------------------------------------------------ | ------------------------------------ |
-| Balance     | Returns the user's balance                                                                       | `~bal`                               |
-| Base        | Buy/View bases which you can use to earn money from                                              | `~base`                              |
-| Beg         | Gives you a small amount of money from a random user in the server                               | `~beg`                               |
-| Blackjack   | Play blackjack against the bot for a certain amount of money                                     | `~blackjack \<bet>`                  |
-| Camera      | Takes a picture using the camera and sells the image for cash.                                   | `~camera`                            |
-| Coinflip    | Choose heads or tails wih a bet.                                                                 | `~coinflip \<heads/tails> \<bet>`    |
-| Daily       | Get your daily (every 12 hour) rewards.                                                          | `~daily`                             |
-| Deposit     | Deposits a certain amount of money into your vault.                                              | `~dep \<amount>`                     |
-| Fish        | Try your luck and fish in an open lake                                                           | `~fish`                              |
-| Hunt        | Try your luck and hunt in an open field.                                                         | `~bal`                               |
-| Gamble      | Gamble in a basic dice game against Acoustic                                                     | `~gamble \<amount>`                  |
-| Leaderboard | Shows the leaderboard of the richest players                                                     | `~lb`                                |
-| Mine        | Mines some of that fresh crypto (maybe Dogecoin???)                                              | `~mine`                              |
-| Postmeme    | Posts a random meme and gives you money based on how popular it is.                              | `~pm`                                |
-| Search      | Searches under an item of your choice and gives you a random amount of money.                    | `~search`                            |
-| Updgrade    | Buy/view upgrades you can do on your base                                                        | `~upgrade \<buy/view> \<upgrade id>` |
-| WikiHow     | Guess the title of a WikiHow article based on the image. If you guess right, then you get money. | `~wikihow`                           |
-| Withdraw    | Withdraws money from your vault.                                                                 | `~withdraw`                          |
-| Work        | Get a job and start working to earn money.                                                       | `~work \<get> \<id> Then use ~work`  |
+| Command     | Description                                                                                      | Usage                               |
+| ----------- | ------------------------------------------------------------------------------------------------ | ------------------------------------|
+| Balance     | Returns the user's balance                                                                       | `bal`                               |
+| Base        | Buy/View bases which you can use to earn money from                                              | `base`                              |
+| Beg         | Gives you a small amount of money from a random user in the server                               | `beg`                               |
+| Blackjack   | Play blackjack against the bot for a certain amount of money                                     | `blackjack \<bet>`                  |
+| Camera      | Takes a picture using the camera and sells the image for cash.                                   | `camera`                            |
+| Coinflip    | Choose heads or tails with a bet.                                                                | `coinflip \<heads/tails> \<bet>`    |
+| Daily       | Get your daily (every 12 hour) rewards.                                                          | `daily`                             |
+| Deposit     | Deposits a certain amount of money into your vault.                                              | `dep \<amount>`                     |
+| Fish        | Try your luck and fish in an open lake                                                           | `fish`                              |
+| Hunt        | Try your luck and hunt in an open field.                                                         | `bal`                               |
+| Gamble      | Gamble in a basic dice game against Acoustic                                                     | `gamble \<amount>`                  |
+| Leaderboard | Shows the leaderboard of the richest players                                                     | `lb`                                |
+| Mine        | Mines some of that fresh crypto (maybe Dogecoin???)                                              | `mine`                              |
+| Postmeme    | Posts a random meme and gives you money based on its popularity.                                 | `pm`                                |
+| Search      | Searches under an item of your choice and gives you a random amount of money.                    | `search`                            |
+| Upgrade    | Buy/view upgrades you can do on your base                                                         | `upgrade \<buy/view> \<upgrade id>` |
+| WikiHow     | Guess the title of a WikiHow article based on the image. If you guess right, then you get money. | `wikihow`                           |
+| Withdraw    | Withdraws money from your vault.                                                                 | `withdraw`                          |
+| Work        | Get a job and start working to earn money.                                                       | `work \<get> \<id> Then use ~work`  |
 
 ## Info
 
@@ -90,5 +90,5 @@ slug: /commands
 
 | Command | description                               | Usage              |
 | ------- | ----------------------------------------- | ------------------ |
-| poll    | Create a poll for users to answer.        | `~poll <Question>` |
-| avatar  | Retrieves the avatar of the desired user. | `~avatar @Person`  |
+| poll    | Create a poll for users to answer.        | `poll <Question>`  |
+| avatar  | Retrieves the avatar of the desired user. | `avatar @Person`   |
